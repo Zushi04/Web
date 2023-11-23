@@ -6,7 +6,7 @@
 }
 @font-face {
   font-family: 'CustomFont2';
-src: url('./Font/Kamikaze3DGradient.ttf') format('truetype');
+src: url('Kamikaze3DGradient.ttf') format('truetype');
 }
 h1 {
     text-align: center;
