@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'CustomFont';
-  src: url('./Font/Kamikaze.ttf') format('truetype');    
+  src: url('Kamikaze.ttf') format('truetype');    
 }
 @font-face {
   font-family: 'CustomFont2';
