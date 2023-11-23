@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: 'CustomFont';
-  src: url('Kamikaze.ttf') format('truetype');    
+  src: url('font/Kamikaze.ttf') format('truetype');    
 }
 @font-face {
   font-family: 'CustomFont2';
-src: url('Kamikaze3DGradient.ttf') format('truetype');
+src: url('font/Kamikaze3DGradient.ttf') format('truetype');
 }
 h1 {
     text-align: center;
