@@ -1,0 +1,16 @@
+HTTP/2 200 OK
+Content-Length: 60
+Content-Type: application/json; charset=utf-8
+Date: Sat, 30 Dec 2023 13:42:16 GMT
+Server: envoy
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.roblox.com
+Vary: Origin
+X-Envoy-Upstream-Service-Time: 3
+Strict-Transport-Security: max-age=3600
+X-Roblox-Region: us-central
+X-Roblox-Edge: sin2
+Report-To: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+Nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"isVerified":true,"verifiedAge":18,"isSeventeenPlus":true}
